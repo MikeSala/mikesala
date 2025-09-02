@@ -27,15 +27,13 @@ Currently, I'm focused on becoming a **full-stack React developer**. 🚀
 ### 🌱 I’m currently learning
 <div display="flex">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+More stuff related to backend
 
 ---
 
 ### 🤝 I’m looking to collaborate on
-- Open-source projects with React / Next.js.  
+- Projects with React / Next.js.  
 - Innovative frontend solutions with strong UX/UI.  
 
 ---
