@@ -1,54 +1,69 @@
-## Hi there 👋
+# Hey, I'm Maciej 👋
 
-I'm **Maciej**, a Junior React Developer passionate about building modern, fast, and user-friendly web applications.  
-I have hands-on experience with **React, Next.js, Tailwind CSS, and GraphQL**, working on both solo and team projects.  
-Currently, I'm focused on becoming a **full-stack React developer**. 🚀
+**Frontend Developer** specializing in React & Next.js, with a background in game design and digital marketing.
 
----
+I build fast, accessible web applications that solve real problems. My past in game-dev taught me to think about user experience first; my marketing years showed me why performance and SEO actually matter.
 
-### 🛠️ My Tech Stack
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
+Currently running **[StriveLab](https://strivelab.pl)** — helping startups and product teams ship modern web apps.
 
 ---
 
-### 🔭 I’m working on
-- Freelance web projects (React + Next.js).  
-- My own portfolio apps (integration with APIs, performance optimization, SEO).  
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-### 🌱 I’m currently learning
-<div display="flex">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
-More stuff related to backend
+## 🚀 Featured Projects
+
+### [Army Builder](https://army-builder.com) — Warhammer: The Old World tool
+A free army list creator for tabletop wargamers. Unit search, roster building, PDF/CSV export.
+
+`Next.js` `TypeScript` `Tailwind CSS` `i18n`
 
 ---
 
-### 🤝 I’m looking to collaborate on
-- Projects with React / Next.js.  
-- Innovative frontend solutions with strong UX/UI.  
+### [StriveLab](https://strivelab.pl) — My freelance studio
+Portfolio and blog about frontend development, SEO, and web performance.
+
+`Next.js` `TypeScript` `Tailwind CSS` `MDX`
 
 ---
 
-### 📫 How to reach me
+### RCSC Australia — Full redesign & Google Ads
+Complete website rebuild with SEO architecture and 12+ months of ad campaign management.
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/maciej-sala-strivelab/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:maciek.a.sala@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+`Next.js` `TypeScript` `Tailwind CSS` `Google Ads`
 
-### ⚡ Fun fact
-Before becoming a React developer, I worked in **game design and digital marketing**,  
-which taught me how to combine creativity, analytics, and technology in every project. 🎮✨
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MikeSala&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSala&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎯 What I'm Focused On
+
+- Building tools for niche communities (gaming, creators)
+- Exploring backend with Node.js and databases
+- Writing about Next.js and web performance on my [blog](https://strivelab.pl/blog)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-sala-strivelab/)
+[![Website](https://img.shields.io/badge/StriveLab-000?style=for-the-badge&logo=vercel&logoColor=white)](https://strivelab.pl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@strivelab.pl)
+
+---
+
+<sub>🎮 Fun fact: Before code, I worked in game design — which is why I still build tools for gamers in my free time.</sub>
