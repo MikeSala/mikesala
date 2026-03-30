@@ -29,7 +29,6 @@ Working across project management, frontend development, SEO/GEO strategy, and g
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
   <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
@@ -106,15 +105,6 @@ Complete website rebuild with SEO architecture, content restructure, and 12+ mon
 Team support on new features, UI improvements, and critical debugging—full TypeScript migration to improve stability and scalability. Automated testing for key user flows.
 
 `React` `TypeScript` `Tailwind CSS` `GraphQL` `Cypress`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeSala&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSala&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 ---
 
