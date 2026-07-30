@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://strivelab.pl"><img src="https://img.shields.io/badge/strivelab.pl-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-  <a href="https://strivelab.pl/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://strivelab.pl/blog/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
   <a href="mailto:contact@strivelab.pl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-I build and manage digital products end-to-end — from strategy and roadmap, through frontend implementation, to SEO, growth marketing, and performance optimization. My background in **game design & product management** (7 years in F2P mobile games) taught me to think in user flows, retention loops and data-driven decisions. My **7+ years in SEO & digital marketing** showed me why technical performance, content architecture, and search visibility are inseparable from good product work.
+I build and manage digital products end-to-end — from strategy and roadmap, through frontend implementation, to SEO, growth marketing, and performance optimization. My background in **game design & product management** (7 years in F2P mobile games) taught me to think in user flows, retention loops, and data-driven decisions. My **7+ years in SEO & digital marketing** showed me why technical performance, content architecture, and search visibility are inseparable from good product work.
 
 Working across project management, frontend development, SEO/GEO strategy, and growth — so the product ships on time **and** gets found.
 
@@ -94,7 +94,7 @@ Portfolio, service pages, and a technical blog covering frontend development, SE
 
 ---
 
-### [RCSC Australia](https://rcsc.com.au) — Full Redesign & Growth
+### [RCSC Australia] rcsc.com.au — Full Redesign & Growth
 Complete website rebuild with SEO architecture, content restructure, and 12+ months of Google Ads campaign management focused on conversion.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Google Ads` `SEO`
