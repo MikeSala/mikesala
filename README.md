@@ -1,134 +1,74 @@
-<h1 align="center">Hey, I'm Maciej 👋</h1>
+<h1 align="center">Hi, I'm Maciej Sala 👋</h1>
 
 <p align="center">
-  <strong>Project Manager · Frontend Developer · SEO, GEO & Growth · QA</strong><br/>
-  Running <a href="https://strivelab.pl">StriveLab</a> — helping teams ship digital products from concept to measurable results
+  <strong>Technical SEO & GEO · Web Development · Product Delivery</strong><br/>
+  Founder of <a href="https://strivelab.pl/">StriveLab</a> — I help businesses build websites that people and search engines can use.
 </p>
 
 <p align="center">
-  <a href="https://strivelab.pl"><img src="https://img.shields.io/badge/strivelab.pl-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-  <a href="https://strivelab.pl/blog/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
-  <a href="mailto:contact@strivelab.pl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://strivelab.pl/"><img src="https://img.shields.io/badge/StriveLab-Website-000000?style=for-the-badge" alt="StriveLab website"/></a>
+  <a href="https://strivelab.pl/blog/"><img src="https://img.shields.io/badge/Read-My%20Blog-FF5722?style=for-the-badge" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/maciejsala/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact@strivelab.pl"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-I build and manage digital products end-to-end — from strategy and roadmap, through frontend implementation, to SEO, growth marketing, and performance optimization. My background in **game design & product management** (7 years in F2P mobile games) taught me to think in user flows, retention loops, and data-driven decisions. My **7+ years in SEO & digital marketing** showed me why technical performance, content architecture, and search visibility are inseparable from good product work.
+## About me
 
-Working across project management, frontend development, SEO/GEO strategy, and growth — so the product ships on time **and** gets found.
+I work at the intersection of **technical SEO, GEO, content architecture, and web development**. I started in search and digital marketing, went on to design and manage free-to-play game projects, and later moved into hands-on development with JavaScript, TypeScript, React, Next.js, and Astro.
 
----
+That mix helps me connect a site's business goals with its implementation: I can investigate crawling, rendering, indexing, and performance issues, plan a practical fix, and work in the codebase to deliver it. At StriveLab, I build and improve websites, content platforms, and web applications with search visibility and measurement in mind.
 
-## 🛠️ Tech Stack
+### In brief
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
-</p>
+- **15+ years** in the web industry
+- **8+ years** in SEO and digital marketing
+- **3+ years** programming with JavaScript, Next.js, and Astro
+- Experience designing and managing F2P game projects with tens of thousands of active users, including roadmap planning, backlog prioritization, team coordination, and KPI analysis
+- Postgraduate studies in Internet Marketing at **AGH University of Krakow**
 
----
+## What I work on
 
-## 🚀 What I Do at StriveLab
+- **Technical SEO:** audits, crawlability, indexing, JavaScript rendering, information architecture, internal links, structured data, migrations, and Core Web Vitals.
+- **GEO / AEO:** content and technical foundations for discoverability in AI-powered search, including clear page structure, bot access decisions, and measurement of referrals and mentions. No one can guarantee that an AI system will cite a page.
+- **Web development:** content sites in Astro, websites and applications in Next.js, and interactive interfaces in React and TypeScript.
+- **Analytics and marketing:** Google Search Console, GA4, conversion tracking, content planning, and Google Ads.
+- **Product delivery:** scoping, estimating, prioritizing, collaborating with developers and QA, and improving products after launch.
 
-**Project & Product Management**
-End-to-end ownership of digital products — roadmap definition, backlog prioritization, cross-functional team coordination, delivery, and post-launch iteration—data-driven decisions backed by analytics, A/B testing, and KPI tracking.
+**Technologies and tools:** JavaScript · TypeScript · React · Next.js · Astro · Tailwind CSS · MDX · Cypress · Google Search Console · GA4 · Google Ads
 
-**Frontend Development (React / Next.js)**
-Modern, performant web applications from scratch. Scalable architecture, clean TypeScript code, responsive UI with Tailwind CSS, REST/GraphQL integrations.
+## Featured projects
 
-**SEO, GEO & Search Visibility**
-Technical SEO architecture, Core Web Vitals optimization, structured data (JSON-LD), crawl budget management, and content strategies built for both traditional search engines and AI-powered answer engines. Hands-on experience with Generative Engine Optimization (GEO) — structuring content so it gets cited by ChatGPT, Perplexity, Google AI Overviews, and other LLM-based systems.
+| Project | My work |
+| --- | --- |
+| [Inspektomat](https://inspektomat.pl/) | Built and developed a service platform for technical inspections, with service pages, local landing pages, a content hub, and a search-focused site structure. |
+| [StriveLab](https://strivelab.pl/) | My studio website and technical blog on SEO, GEO, frontend development, analytics, and web performance. |
+| [Michał Bialik — portfolio](https://www.michalbialik.com/) | Built a client's portfolio website. |
+| [Kalkulator Kredytowy](https://kalkulatorkredytowy.app/) | Built an interactive financial calculator platform. |
+| [RCSC Australia](https://rcsc.com.au/) | Worked on the website, SEO, and Google Ads campaigns. |
 
-**Digital Marketing & Growth**
-Google Ads campaign management and optimization, conversion tracking, landing page design for paid traffic, and attribution setup. 7+ years of building and monetizing web properties through organic search — from keyword research and content architecture to link acquisition and long-term traffic growth.
+You can also explore [Army Builder](https://army-builder.com/), a tabletop wargaming tool I built as a personal project.
 
-**QA & Debugging**
-Automated testing with Cypress & Playwright, TypeScript migrations, stabilizing critical user flows.
+## Selected writing
 
----
+- **Technical SEO:** [What a technical SEO audit covers in 2026](https://strivelab.pl/blog/audyt-techniczny-seo-co-obejmuje/) — crawling, rendering, indexing, Core Web Vitals, and implementation priorities.
+- **GEO:** [What GEO is and how to optimize content for AI search](https://strivelab.pl/blog/geo-generative-engine-optimization-czyli-jak-optymalizowac-tresci-pod-ai/) — content, technical access, and ways to measure visibility.
+- **Next.js:** [Where the server–client boundary lies in Next.js and React](https://strivelab.pl/blog/frontend-nextjs-react-granica-serwer-klient/) — rendering, data, state, forms, and performance.
+- **Astro:** [A guide to Astro projects from architecture to maintenance](https://strivelab.pl/blog/przewodnik-po-projektach-w-astro-od-architektury-po-utrzymanie/) — technology choices, content modeling, SEO, deployment, and ongoing work.
 
-## 📈 SEO, GEO & Digital Marketing
+The articles are written in Polish. More on the [StriveLab blog](https://strivelab.pl/blog/).
 
-Search has been a core part of my work since 2007. I've built multiple web projects from zero to sustained organic traffic, managed Google Ads campaigns for clients, and developed content architectures that rank across competitive Polish and English SERPs.
+## Education and training
 
-**SEO expertise includes:** technical audits & Core Web Vitals, site architecture & internal linking strategy, programmatic SEO for multi-city/multi-service sites, meta tag optimization (dynamic templates, structured titles), schema markup (JSON-LD for articles, FAQs, services, local business), crawl optimization and indexing strategy, content production workflows at scale (100+ MDX articles per project).
+- **Postgraduate studies in Internet Marketing** — AGH University of Krakow
+- **Google Ads training** — DevaGroup
+- **Umiejętności Jutra AI (AI Skills for the Future)** — Google and SGH
+- **The Complete JavaScript Course: From Zero to Expert** — Jonas Schmedtmann, Udemy
+- **The Ultimate React Course: React, Next.js, Redux & More** — Jonas Schmedtmann, Udemy
+- **React – The Complete Guide** — Maximilian Schwarzmüller, Udemy
+- **ChatGPT & Generative AI – The Complete Guide** — Maximilian Schwarzmüller, Udemy
 
-**GEO (Generative Engine Optimization)** is where traditional SEO meets the AI-driven search landscape. As LLMs like ChatGPT, Perplexity, and Google's AI Overviews increasingly answer user queries directly, content needs to be structured not just for crawlers but for citation by AI systems. My GEO work covers: writing content optimized for LLM retrieval and citation, implementing structured data and a clear information hierarchy that AI systems can parse, managing bot access policies (GPTBot, ClaudeBot, PerplexityBot), measuring AI-driven traffic and brand mentions, and building topical authority through comprehensive content clusters.
+## Let's connect
 
-**Marketing & Ads:** Google Ads campaign management (Search, Display), conversion tracking with GA4 and GTM, landing page optimization for paid traffic, A/B testing, and ROI-focused campaign iteration.
-
-I write about these topics on my [blog](https://strivelab.pl/blog/) — including a detailed guide on [GEO optimization for AI search engines](https://strivelab.pl/blog/geo-optymalizacja-pod-wyszukiwarki-ai/).
-
----
-
-## 🏗️ Featured Projects
-
-### [inspektomat.pl](https://inspektomat.pl) — Inspection Services Platform
-A lead-generation platform helping property owners, managers, and administrators find and compare firms providing building safety inspections across Poland. Covers electrical, gas, chimney, ventilation, fire detection, HVAC, and general building inspections with city-specific landing pages for all major Polish cities.
-
-SEO-first content architecture with 19 service categories, local landing pages, an extensive knowledge base (poradnik), legislation reference section, and a programmatic multi-city structure designed for long-tail organic growth.
-
-`Next.js` `TypeScript` `Tailwind CSS` `MDX` `SEO` `GEO`
-
----
-
-### [kalkulatorkredytowy.app](https://kalkulatorkredytowy.app) — Mortgage & Loan Calculator
-A Polish-language financial calculator with detailed amortization tables, full cost breakdowns, and interactive sliders for instant simulation of different loan amounts, terms, and interest rates. Supports both equal and decreasing installment schedules.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
----
-
-### [StriveLab](https://strivelab.pl) — Freelance Studio & Blog
-Portfolio, service pages, and a technical blog covering frontend development, SEO, GEO, Google Ads, QA, and web performance. Bilingual (PL/EN), with a growing archive of MDX articles.
-
-`Next.js` `TypeScript` `Tailwind CSS` `MDX`
-
----
-
-### [RCSC Australia] rcsc.com.au — Full Redesign & Growth
-Complete website rebuild with SEO architecture, content restructure, and 12+ months of Google Ads campaign management focused on conversion.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Google Ads` `SEO`
-
----
-
-### Corella Digital — Inspection App
-Team support on new features, UI improvements, and critical debugging—full TypeScript migration to improve stability and scalability. Automated testing for key user flows.
-
-`React` `TypeScript` `Tailwind CSS` `GraphQL` `Cypress`
-
----
-
-## 🎯 What I'm Focused On
-
-- End-to-end product ownership — from first commit to growth metrics
-- Building content-driven web platforms with programmatic SEO and GEO strategies
-- Deepening backend skills with Node.js and databases
-- Exploring AI-assisted tooling, LLM orchestration, and the emerging role of AI in product workflows
-- Writing about Next.js, SEO, GEO, and frontend craft on my [blog](https://strivelab.pl/blog/)
-
----
-
-## 📫 Let's Connect
-
-Got a project, a broken app, or want to talk product & growth? → [contact@strivelab.pl](mailto:contact@strivelab.pl) or [strivelab.pl/about/#contact](https://strivelab.pl/about/#contact)
-
----
-
-## 🎮 Hobby Corner
-
-### [Army Builder](https://army-builder.com) — Warhammer: The Old World
-A free online army list builder for tabletop wargamers. 18 supported factions, unit search with stat profiles, roster building with point tracking, faction-specific strategy guides, and export to PDF, JSON, or CSV. Built for fun, used by the community.
-
-`Next.js` `TypeScript` `Tailwind CSS` `i18n`
-
-*Because every developer needs a project they build purely for the love of it.*
+Have a site that needs technical SEO work, a migration, or an extra developer? Reach me at [contact@strivelab.pl](mailto:contact@strivelab.pl) or on [LinkedIn](https://www.linkedin.com/in/maciejsala/).
