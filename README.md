@@ -72,3 +72,8 @@ The articles are written in Polish. More on the [StriveLab blog](https://strivel
 ## Let's connect
 
 Have a site that needs technical SEO work, a migration, or an extra developer? Reach me at [contact@strivelab.pl](mailto:contact@strivelab.pl) or on [LinkedIn](https://www.linkedin.com/in/maciejsala/).
+
+More:
+
+- [Article about StriveLab](https://politykacookies.pl/artykuly-partnerskie/3205-nowoczesna-strona-internetowa-to-nie-tylko-wyglad-jak-polaczyc-technologie-seo-i-wydajnosc/)
+- [StriveLab cooperations](https://4programmers.net/Forum/Og%C5%82oszenia_drobne/378207-wspolpraca_przy_projektach_webowych_development_techniczne_seo_i_widocznosc_w_ai)
