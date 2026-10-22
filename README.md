@@ -52,10 +52,10 @@ You can also explore [Army Builder](https://army-builder.com/), a tabletop warga
 
 ## Selected writing
 
-- **Technical SEO:** [What a technical SEO audit covers in 2026](https://strivelab.pl/blog/audyt-techniczny-seo-co-obejmuje/) — crawling, rendering, indexing, Core Web Vitals, and implementation priorities.
-- **GEO:** [What GEO is and how to optimize content for AI search](https://strivelab.pl/blog/geo-generative-engine-optimization-czyli-jak-optymalizowac-tresci-pod-ai/) — content, technical access, and ways to measure visibility.
-- **Next.js:** [Where the server–client boundary lies in Next.js and React](https://strivelab.pl/blog/frontend-nextjs-react-granica-serwer-klient/) — rendering, data, state, forms, and performance.
-- **Astro:** [A guide to Astro projects from architecture to maintenance](https://strivelab.pl/blog/przewodnik-po-projektach-w-astro-od-architektury-po-utrzymanie/) — technology choices, content modeling, SEO, deployment, and ongoing work.
+- **Technical SEO:** [Co obejmuje audyt techniczny SEO](https://strivelab.pl/blog/audyt-techniczny-seo-co-obejmuje/) — crawling, rendering, indexing, Core Web Vitals, and implementation priorities.
+- **GEO:** [Jak optymalizować treści pod AI](https://strivelab.pl/blog/geo-generative-engine-optimization-czyli-jak-optymalizowac-tresci-pod-ai/) — content, technical access, and ways to measure visibility.
+- **Next.js:** [Frontend w Next.js i React: gdzie dziś przebiega granica serwer–klient](https://strivelab.pl/blog/frontend-nextjs-react-granica-serwer-klient/) — rendering, data, state, forms, and performance.
+- **Astro:** [Przewodnik po projektach w Astro](https://strivelab.pl/blog/przewodnik-po-projektach-w-astro-od-architektury-po-utrzymanie/) — technology choices, content modeling, SEO, deployment, and ongoing work.
 
 The articles are written in Polish. More on the [StriveLab blog](https://strivelab.pl/blog/).
 
